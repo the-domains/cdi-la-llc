@@ -1,7 +1,7 @@
 name: Creative Design innovations
 favicon: null
 layout_spectrum: 0.93477
-typography_spectrum: 0.90337
+typography_spectrum: 0.56191
 title: 'A Landscape Architecture and Land Planning firm in Huntsville, AL'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2679539748933166
-  lightness: 0.2653769471216947
-  saturation: 0.6155051807872951
-  rhythmicContrast: 0.42576270923018456
+    - '#a3c3a3'
+    - '#ffffff'
+    - '#808080'
+    - '#000000'
+    - '#80ff80'
+  brandStrength: 0.75
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
