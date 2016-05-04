@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Residential Landscape -- Going in the ground...
-datePublished: '2016-05-04T13:21:00.112Z'
-dateModified: '2016-05-04T13:20:45.257Z'
+datePublished: '2016-05-04T13:21:33.599Z'
+dateModified: '2016-05-04T13:21:08.218Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-residential-landscape-going-in-the-ground.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-residential-landscape-going-in-the-ground.md
-published: true
 url: residential-landscape-going-in-the-ground/index.html
 _type: Article
 
